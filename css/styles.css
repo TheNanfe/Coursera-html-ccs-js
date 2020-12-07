@@ -63,7 +63,9 @@ body {
 #menu-list div{
   background: gray;
   overflow: hidden;
-  margin-top: 20px
+  margin-top: 20px;
+  margin-bottom: 20px;
+
 }
 
 #menu-list h1, #menu-list h2 {
